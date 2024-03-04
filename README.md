@@ -17,3 +17,4 @@ Try running the following commands:
 # my_dbt_demo
 # my_dbt_demo
 # my_dbt_demo
+# my_dbt_demo
